@@ -1,4 +1,11 @@
-## Hi there 👋
+![image](https://github.com/Eurus-Holmes/Eurus-Holmes/blob/master/dino.gif)
+
+- 👯 Always open to collaborations on Multimodal and Interdisciplinary research topics. 
+- 🔭 I'm learning EVERYTHING about this universe.
+- 💬 You can ask me ANYTHING as long as I know.
+- 📫 Feel free to [Email](mailto:fychen@ucla.edu) Me!
+- 😄 Fun fact: The [Three-Body](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) is my favorite novel and [Sherlock](https://en.wikipedia.org/wiki/Sherlock_(TV_series)) is my favorite TV series. That's where my GitHub avatar and username come from.
+
 
 <!--
 **vincentLossless/vincentLossless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
